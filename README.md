@@ -22,8 +22,6 @@
     - launches test runner by watch mode
     - transpiler by SWC
       - **not esbuild**
-  - `npm run test`
-    - get coverage report
   - `npm run coverage`
     - ~~get coverage report~~
 
